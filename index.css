@@ -3,8 +3,9 @@ body {
 }
 
 
-1st_banner {
-    height: 200px;
-    width: 400px;
+div.first_banner {
     background-image: url('./imgs/4_cool_birds.jpeg');
+    background-size: cover;
+    height: 500px;
+    width: 100%;
 }
